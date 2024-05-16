@@ -281,7 +281,7 @@
     background: radial-gradient(#e1efff, white);
   }
   .about .title::after {
-    content: "—Who Am I ?—";
+    content: "—Who I Am ?—";
     text-overflow: ellipsis;
     display: -webkit-inline-box;
     -webkit-line-clamp: 3;
